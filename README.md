@@ -36,19 +36,53 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+### Half Adder
+
+ ![Screenshot 2023-12-26 173456](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/6a9f26eb-d186-4237-8602-d649fbdd79ef)
+
+### Full Adder
+
+![Screenshot 2023-12-26 173501](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/fc36574d-462e-4b3a-81bf-2ede359b8361)
+
+ 
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Rithik-V
+RegisterNumber:  23014287
 */
 Logic symbol & Truthtable
 RTL realization
+### Half Adder
+
+![Screenshot 2023-12-26 173505](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/dbf3e66b-8199-412a-98c7-5ed5ee71778f)
+
+
+### Full  Adder
+
+![Screenshot 2023-12-26 173512](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/ea995fd9-6243-4c13-8a43-b84d03ae8681)
+
 
 ### Output:
-### RTL
+### Truth table
+
+### Half  Adder
+![Screenshot 2023-12-26 173518](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/276d71bb-a104-40a8-9aad-71cc99dab248)
+
+
+### Full  Adder
+
+![Screenshot 2023-12-26 173524](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/713f01ba-ca75-41b5-ae18-88d544a40e04)
+
 ### TIMING DIAGRAM
+### Half   Adder
+![Screenshot 2023-12-26 173533](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/fb62a6a4-1112-4d95-afdb-73d2a0ab7d83)
 
+ ### Full  Adder
 
-### TRUTH TABLE 
+![Screenshot 2023-12-26 173543](https://github.com/23014287rithik/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150985832/1acd7177-993f-41aa-8ce4-8883c5884514)
 
+ 
 ### Result:
+Thus a Half Adder and Full Adder is designed and its truthtables are verified in Quartus using
+Verilog programming
